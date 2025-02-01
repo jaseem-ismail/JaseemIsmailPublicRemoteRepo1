@@ -1,3 +1,3 @@
 # JaseemIsmailPublicRemoteRepo1
 
-Hello, I am Jaseem. This repository is for my Git learning.
+Hello, I am Ose. I am contributing to jaseems project.
